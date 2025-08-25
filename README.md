@@ -15,24 +15,31 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+https://github.com/user-attachments/assets/10885420-56e6-4a01-88c8-6f7dc30dc8ff
 
 ## App Brainstorming (Step 4)
 
-Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. It's okay if features repeat on different apps
+__**Reddit**__
+-Upvote and downvote abilities
+-communities (subreddits)
 
-Example App: Instagram
-Changing the background color of the messages screen
-Deleting old messages
+__**Plants vs zombies**__
+-new plants and zombies
+-smooth graphics
+-easily and strategic puzzles 
 
+__**Books**__
+-access to downloaded books without internet
+-built in highlighting/dictionary feature
 
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not committing to this idea, but it helps to start brainstorming early on and get feedback from your peers and instructors.
+I want to build an app that shows when surge prices are likely to happen and give an estimate of the fare at a certain place and time. It could also potentially compare Uber and Lyft side by side and suggest whether you should wait a little or book right away. This way, riders are able to plan smarter and avoid paying extra. 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I encountered an outlet error, which was resolved after I got rid of a dangling outlet. 
 
 ## License
 
