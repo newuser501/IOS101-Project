@@ -22,17 +22,17 @@ https://github.com/user-attachments/assets/10885420-56e6-4a01-88c8-6f7dc30dc8ff
 ## App Brainstorming (Step 4)
 
 __**Reddit**__
--Upvote and downvote abilities
--communities (subreddits)
+- Upvote and downvote abilities
+- communities (subreddits)
 
 __**Plants vs zombies**__
--new plants and zombies
--smooth graphics
--easily and strategic puzzles 
+- new plants and zombies
+- smooth graphics
+- easily and strategic puzzles 
 
 __**Books**__
--access to downloaded books without internet
--built in highlighting/dictionary feature
+- access to downloaded books without internet
+- built in highlighting/dictionary feature
 
 I want to build an app that shows when surge prices are likely to happen and give an estimate of the fare at a certain place and time. It could also potentially compare Uber and Lyft side by side and suggest whether you should wait a little or book right away. This way, riders are able to plan smarter and avoid paying extra. 
 
